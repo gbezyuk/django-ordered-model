@@ -1,7 +1,9 @@
-django-ordered-model
-====================
+django-ordered-model-grappelli
+==============================
 
-[![Build Status](https://secure.travis-ci.org/bfirsh/django-ordered-model.png?branch=master)](https://travis-ci.org/bfirsh/django-ordered-model)
+[![Build Status](https://secure.travis-ci.org/gbezyuk/django-ordered-model-grappelli.png?branch=master)](https://travis-ci.org/gbezyuk/django-ordered-model-grappelli)
+
+This is a fork of original django-ordered-model by bfirsh. Text bellow is left unchanged.
 
 django-ordered-model allows models to be ordered and provides a simple admin
 interface for reordering them.

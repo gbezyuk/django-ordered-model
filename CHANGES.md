@@ -1,6 +1,12 @@
 Change log
 ==========
 
+1.0.1 - 2015-12-06
+------------------
+ - by @gbezyuk
+ - Grappelli postfix added
+ - is_editable=True for order field to make it available for Grappelli inlines
+
 1.0.0 – 2015-11-24
 ------------------
 

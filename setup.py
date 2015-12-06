@@ -3,12 +3,12 @@
 from distutils.core import setup
  
 setup(
-    name='django-ordered-model',
-    version='1.0.0',
+    name='django-ordered-model-grappelli',
+    version='1.0.1',
     description='Allows Django models to be ordered and provides a simple admin interface for reordering them.',
-    author='Ben Firshman',
-    author_email='ben@firshman.co.uk',
-    url='http://github.com/bfirsh/django-ordered-model',
+    author='Grigoriy Bezyuk',
+    author_email='me@gbezyuk.ru',
+    url='http://github.com/gbezyuk/django-ordered-model-grappelli',
     packages=[
         'ordered_model',
         'ordered_model.tests',

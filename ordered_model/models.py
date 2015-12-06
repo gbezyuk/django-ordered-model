@@ -219,7 +219,7 @@ class OrderedModel(OrderedModelBase):
     Provides an ``order`` field.
     """
 
-    order = models.PositiveIntegerField(editable=False, db_index=True)
+    order = models.PositiveIntegerField(db_index=True)
     order_field_name = 'order'
 
     class Meta:
